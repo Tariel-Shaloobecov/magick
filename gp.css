@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+#div_main{
+    width: 100%;
+    height: 1000px;
+    font-family:'PT Sans' sans-serif;
+    background-color: black;
+}
+.h1{
+    color: white;
+    padding-top: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 38px;
+    font-weight: 700;
+}
+.firts_card{
+    width: 300px;
+    height: 500px;
+    background: linear-gradient(to bottom right , #69aff4,#e814d5);
+}
+.image{
+    width: 70px;
+    padding-top: 50px;
+    margin-left:  120px;
+}
+.header_h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.text{
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.line{
+width: 230px;
+height: 1px;
+background-color: white;
+margin: auto;
+}
+.main_card{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.firts_card2{ 
+    width: 300px;
+    height: 500px;
+    background: linear-gradient(to bottom right , #fee661,#f72dd1);
+}
+.firts_card3{ 
+    width: 300px;
+    height: 500px;
+    background: linear-gradient(to bottom right , #8659d2,#22fb75);
+}
+button{
+    width: 200px;
+    height: 50px;
+    border: none;
+    background: linear-gradient(to bottom right , #69aff4,#e814d5,#8659d2,#22fb75);
+    text-transform: uppercase;
+    margin-top: 50px;
+    margin-left: 45%;
+    font-size: 18px;
+
+
+}
+
+    
+
